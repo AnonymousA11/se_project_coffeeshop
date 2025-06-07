@@ -1,6 +1,6 @@
 # Triple Peaks Coffee Shop
 
-This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+My name is Justin McCulloh and this is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief. The idea of the landing page was to creater a fictional coffee shop that belongs to TripleTen.
 
 ## Project features
 
@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I think we should go more into depth on padding and spaces, also we should look more into more complex nesting in html.
