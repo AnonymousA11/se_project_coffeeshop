@@ -61,11 +61,11 @@ justify-content: space-between;
 
 .footer__social-link:hover{
   opacity:70%;
-  transition:background-color 0.5s;
+  transition:opacity 0.5s;
 }
 
 .footer__copyright{
-  margin:100px 0 0;
+  margin:108px 0 0;
   font-family: "Inter","Arial", sans-serif;
   font-style: normal;
   font-weight: normal;

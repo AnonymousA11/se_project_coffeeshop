@@ -3,9 +3,11 @@
   display:flex;
   flex-direction:column;
   padding:30px 80px 40px;
+  box-sizing: border-box;
   background:center/cover no-repeat #fff url("../images/background_header.svg");
   height:800px;
   position:relative;
+  z-index:1;
 
 }
 
@@ -15,6 +17,7 @@
   height:568px;
   width:646px;
   right:5px;
+  z-index:-1;
 
 
 
@@ -35,7 +38,6 @@
 .header__description{
   max-width:683px;
   margin:28px 0 0;
-  font-size:16px;
   color:#000000;
   line-height: 30px;
   letter-spacing: -0.6px;
@@ -66,8 +68,7 @@
   font-family: "Noto Serif","Times New Roman", serif;
   font-style: italic;
   font-weight: normal;
-  font-size: 60px;
-  line-height: 72px;
+
   color: #3F96F3;
 }
 
